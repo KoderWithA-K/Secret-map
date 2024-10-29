@@ -1,5 +1,5 @@
-folium==0.18.0
-geopy==2.4.1
-numpy==1.24.2
-streamlit==1.26.0
-streamlit_folium==0.23.1
+folium
+geopy
+numpy
+streamlit
+streamlit_folium
